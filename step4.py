@@ -1,4 +1,10 @@
-#B00350882
+
+#I have been asked to implement a program to the Paisley Precision Engineering Company which manufactures aircraft components.
+#The task was to create a menu with 8 options. Within these options the user can create new batch, list all the created batches,
+#view details of a batch, view details of a component, allocate manufactured stock, search by product type, finish a component
+#and finally by choosing the last option to quit the program. When batch is created,
+#the data had to be saved as json file as well as pickled files later.  The program had to be done along 4 steps.
+#Each step had to be tested through a testing plan.
 import datetime
 import json
 import pickle
